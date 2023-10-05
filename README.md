@@ -2,7 +2,8 @@
 This is my final project
 #azure link   https://thankful-tree-0d114a710.3.azurestaticapps.net/
 
-Dentile: Your Smile, Our Priority
+Dentile: Your Smile, Our Priority.
+
 Dentile is an innovative dental clinic website designed to address the aforementioned challenges and provide a seamless and informative experience for users seeking dental care.
 
 
