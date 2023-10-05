@@ -4,7 +4,7 @@ This is my final project
 
 Dentile: Your Smile, Our Priority.
 
-Dentile is an innovative dental clinic website designed to address the aforementioned challenges and provide a seamless and informative experience for users seeking dental care.
+Dentile is an innovative dental clinic website designed to address the different challenges and provide a seamless and informative experience for users seeking dental care.
 
 
 ## Home page
